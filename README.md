@@ -8,10 +8,10 @@ Your problems for this week (to be submitted to `github`):
 
 Make a python program that prints the following information about yourself:
 
-Name: Sara Sprenkle
-Favorite food: pizza
-Favorite color: purple
-Favorite hobby: hiking
+Name: Sara Sprenkle  
+Favorite food: pizza  
+Favorite color: purple  
+Favorite hobby: hiking  
 
 Record the output in comments at the end of the file.
 
